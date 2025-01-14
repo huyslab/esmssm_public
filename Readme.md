@@ -16,4 +16,5 @@ All scripts related to data handling, modeling, and statistical analyses are loc
 All figures and intermediate files are available in the `results` folder.
 
 
-## Link to preprint:
+## Link to paper:
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012457
